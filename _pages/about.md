@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 Hi!
 
 I write, code and do research on economic/financial topics of interest, including, but not limited to: game theory, ML in financial time series, crypto economies, MMO and game economies. I hang around [r/ethfinance](http://reddit.com/r/ethfinance) and/or [r/wallstreetbets](http://reddit.com/r/wallstreetbets).
-Hmu if you feel like our interests match, always happy to meet collaborators! hhh 
-I also like photography and surrealist/ trippy images, link to my behance project appreciations and unsplash profile.
+Hmu if you feel like our interests match, always happy to meet collaborators! hhh
+I also like photography and surrealist/ trippy images, link to my behance project appreciations and unsplash profile.....
 
 
 #You can put a picture in, too. The code is already in, just name your #picture `prof_pic.jpg` and put it in the `img/` folder.
